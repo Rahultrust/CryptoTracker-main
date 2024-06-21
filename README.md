@@ -1,1 +1,1 @@
-# CryptoTracker-main
+Crypto-Tracker App
